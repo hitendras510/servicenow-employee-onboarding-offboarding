@@ -64,10 +64,6 @@ Refer to **Phase 5 → Setup Manual** for complete setup instructions.
 
 ---
 
-## 👨‍💻 Contributors
-- Hritik Pandey
-- Project Team Members
-
 ---
 
 ## 📌 Future Improvements
